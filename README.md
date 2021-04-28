@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Himanshu Mishra
+- 👋 Hi, I’m Himanshu Mishra a self taught programmer.
 - 👀 I’m interested in Backend Development, Javascript, NodeJS and new technologies such as Blockchain, etc.
 - 🌱 I’m currently learning Fullatack web development.
 - 💞️ I’m looking to collaborate on NodeJS projects.
