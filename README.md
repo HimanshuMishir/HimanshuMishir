@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Mishra a self taught programmer.
 - 👀 I’m interested in Backend Development, Javascript, NodeJS and new technologies such as Blockchain, etc.
-- 🌱 I’m currently learning Fullatack web development.
+- 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on NodeJS projects.
 - 📫 You  can contact me on my persional mail ID - hm221311@gmail.com or phone number +91 9506005060
 
