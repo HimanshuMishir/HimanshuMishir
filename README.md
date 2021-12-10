@@ -7,7 +7,7 @@
 - 📧 persional mail ID - [hm221311@gmail.com](hm221311@gmail.com)
 - 💡 [Linkedin](https://www.linkedin.com/in/HimanshuMishir)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMishir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMishir)]
 - 
 
 <!---
