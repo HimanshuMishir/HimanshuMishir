@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Himanshu Mishra a self taught programmer.
-- 👀 I’m interested in Backend Development, Javascript, NodeJS and new technologies such as Blockchain, etc.
+- 👀 I’m interested in Backend Development, Javascript, NodeJS and new technologies such as Blockchain, Svelte, fastAPI, etc.
 - 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on NodeJS projects.
-- 📫 You  can contact me on my persional mail ID - hm221311@gmail.com or phone number +91 9506005060
+- ❤️ I Love to talk about new Technologies.
+- 📫 You  can contact me on my
+- 📧 persional mail ID - [hm221311@gmail.com](hm221311@gmail.com)
+- 💡 [Linkedin](https://www.linkedin.com/in/HimanshuMishir)
+
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=HimanshuMishir&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMishir)](https://github.com/anuraghazra/github-readme-stats)
+- 
 
 <!---
 HimanshuMishir/HimanshuMishir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
