@@ -8,7 +8,8 @@
 - 💡 [Linkedin](https://www.linkedin.com/in/HimanshuMishir) 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuMishir&label=Profile%20views&color=0e75b6&style=flat" alt="HimanshuMishir" /> </p>
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HimanshuMishir&row=1" alt="HimanshuMishir" /></a> </p>
-
+- ### Holopin Badges
+- [![@HimanshuMishir's Holopin board](https://holopin.io/api/user/board?user=HimanshuMishir)](https://holopin.io/@HimanshuMishir)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMishir)
 
 <!---
