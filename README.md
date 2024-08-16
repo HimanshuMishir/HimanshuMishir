@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Himanshu Mishra a self taught programmer.
-- 👀 I’m interested in Backend Development, Javascript, NodeJS and new technologies such as Blockchain, Svelte, fastAPI, etc.
-- 🌱 I’m currently learning Blockchain.
-- 💞️ I’m looking to collaborate on NodeJS projects.
-- ❤️ I Love to talk about new Technologies.
-- 📫 You  can contact me on my
-- 📧 persional mail ID - [hm221311@gmail.com](hm221311@gmail.com)
-- 💡 [Linkedin](https://www.linkedin.com/in/HimanshuMishir) 
+👋 Hi, I’m Himanshu Mishra, a self-taught programmer with nearly 3 years of experience in developing and scaling high-performance applications.
+
+- 👨‍💻 **Backend Expertise:** My core strength lies in backend development, with extensive experience in Node.js, WebSocket, MySQL, and ORM frameworks. I’ve designed and scaled systems to efficiently handle millions of users and devices, optimizing them for high traffic and fast data retrieval.
+  
+- 🔧 **DevOps & System Management:** I’m proficient in Linux, Docker, and various DevOps tools, ensuring smooth CI/CD pipelines and system deployments. My hands-on experience includes managing server infrastructures, implementing containerization, and automating deployment processes.
+
+- 🔒 **Security & Performance:** I've made significant security enhancements in my projects, such as implementing role-based access control, encrypting sensitive data, and securing API endpoints. Additionally, I've optimized systems for concurrency and race conditions, using techniques like caching (Redis), data partitioning, sharding, and compression (zipping) to maintain performance under heavy loads.
+
+- 💻 **Full-Stack Development:** While my focus is on backend technologies, I have also worked on the frontend with Angular and other modern JavaScript frameworks, enabling me to contribute to both server-side and client-side development. I believe in building seamless, responsive, and user-friendly interfaces.
+
+- 🌐 **Emerging Technologies:** I’m passionate about exploring and integrating new technologies. Currently, I’m diving deep into Blockchain, Svelte, and FastAPI, learning how to incorporate these technologies into scalable and secure applications. I’m always keen on understanding how emerging tools and frameworks can solve complex problems more efficiently.
+
+- 📈 **Scalability & Optimization:** In my recent project, AMS, I successfully scaled the system to support 10 million employees and 1 million devices, processing 3-4 API requests per second per device. I also managed databases with over 100 million records, optimizing for fast retrieval and efficient data handling.
+
+- 💞️ **Collaboration & Open Source:** I’m actively looking to collaborate on Node.js projects, and I love contributing to open-source communities. I believe in the power of collaboration to create innovative solutions and advance the tech community.
+
+- ❤️ **Tech Enthusiast:** I’m deeply passionate about technology and love discussing the latest trends, tools, and frameworks that are driving the future of software development. Whether it's about backend innovations, security advancements, or new frontend frameworks, I’m always eager to learn and share knowledge.
+
+- 📫 **Contact Me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himanshumishir/) or via [email](hm221311@gmail.com) for collaborations, discussions, or just to exchange ideas on the latest tech trends!
+
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuMishir&label=Profile%20views&color=0e75b6&style=flat" alt="HimanshuMishir" /> </p>
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HimanshuMishir&row=1" alt="HimanshuMishir" /></a> </p>
 - <h3>Techs I code with</h3>
