@@ -1,4 +1,4 @@
-👋 Hi, I’m Himanshu Mishra, a self-taught programmer and have completed Bachelor Of Technology from Chaudhary Charan Singh University having more than 3 years of experience in developing and scaling high-performance applications.
+👋 Hi, I’m Himanshu Mishra, a self-taught programmer and have completed **Bachelor Of Technology** in **Computer Science Engineering** from **Chaudhary Charan Singh University** having more than 3 years of experience in developing and scaling high-performance applications.
 
 - 👨‍💻 **Backend Expertise:** My core strength lies in backend development, with extensive experience in Node.js, WebSocket, MySQL, and ORM frameworks. I’ve designed and scaled systems to efficiently handle millions of users and devices, optimizing them for high traffic and fast data retrieval.
   
