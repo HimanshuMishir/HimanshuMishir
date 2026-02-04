@@ -2,7 +2,7 @@
 
 # Himanshu Mishra
 
-**Software Engineer @ [Rival.io](https://rival.io)** | Building the core execution engine behind [CortexOne](https://cortexone.rival.io)
+**Engineering @ [Rival.io](https://rival.io)** | Building the core execution engine behind [CortexOne](https://cortexone.rival.io)
 
 Multi-runtime systems, distributed compute, and infrastructure that just works.
 
@@ -18,7 +18,7 @@ Multi-runtime systems, distributed compute, and infrastructure that just works.
 
 ## About Me
 
-Self-taught programmer with a **B.Tech in Computer Science Engineering** (CCS University, Meerut) and **3+ years of experience** designing and scaling high-performance backend systems.
+Self-taught programmer with a **B.Tech in Computer Science Engineering** (CCS University, Meerut) and **4+ years of experience** designing and scaling high-performance backend systems.
 
 Currently at **[Rival.io](https://rival.io)** (since Sep 2025), where I build the **core execution engine** behind **[CortexOne](https://cortexone.rival.io)** — a peer-to-peer distributed Function-as-a-Service platform and AI function marketplace. Think of it as the open alternative to AWS Lambda: multi-runtime (Python, JS, Lua, WASM), gRPC-based with sub-millisecond latency, zero-trust security, and serverless MCP server hosting.
 
