@@ -115,12 +115,17 @@ Web3            Ethereum  ·  Solidity  ·  Smart Contracts
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuMishir&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuMishir&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=HimanshuMishir&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMishir&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimanshuMishir&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimanshuMishir&theme=tokyonight&utcOffset=5.5" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimanshuMishir&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimanshuMishir&theme=tokyonight" height="200" />
 </p>
 
 ---
